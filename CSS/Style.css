@@ -6,16 +6,69 @@ header {
     background-color: #f7f7e5b5; 
 }
 
-p {
-    background-color: #f5f5dc;
-}
 
 .first-paragraph {
-    background-color: #49f257;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto 0 auto;
+}
+
+.h2 {
+    width: 300px;
+    padding: 20px;
+    margin: 20px auto 20px auto;
 }
 
 #second-paragraph {
-    background-color: aqua;
-    width: 600px;
-    height: 400px;
+    background-color: rgb(170, 210, 247);
+    width: 1000px;
+    padding: 20px;
+    margin: 20px auto 20px auto;
+}
+
+
+article h1 {
+    color: rgb(241, 24, 24);
+    width: 300px;
+    padding: 50px;
+    margin: 0 auto 0 auto;
+}
+
+.picture-main {
+    margin: 0 auto 0 auto;
+}
+
+.picture1 { 
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto 0;
+}
+.picture2 {
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto;
+}
+
+.picture3 {
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto;
+}
+
+.picture4 {
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto;
+}
+
+.picture5 {
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto;
+}
+
+.picture6 {
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto;
 }
