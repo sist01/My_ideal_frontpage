@@ -1,0 +1,21 @@
+body {
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #f7f7e5b5; 
+}
+
+p {
+    background-color: #f5f5dc;
+}
+
+.first-paragraph {
+    background-color: #49f257;
+}
+
+#second-paragraph {
+    background-color: aqua;
+    width: 600px;
+    height: 400px;
+}
