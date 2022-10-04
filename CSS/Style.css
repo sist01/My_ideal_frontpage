@@ -22,7 +22,7 @@ header {
 }
 
 #second-paragraph {
-    background-color: rgb(170, 210, 247);
+    background-color: #aad2f7;
     width: 1000px;
     padding: 20px;
     margin: 20px auto 20px auto;
@@ -41,23 +41,27 @@ article h1 {
 .picture-main {
     margin: 0 auto 0 auto;
     padding-left: 120px;
+    
 }
 
 .picture1 { 
     width: 450px;
     height: 300px;
     margin: 0 auto 0 auto 0;
+    display: inline-block;
 }
 .picture2 {
     width: 450px;
     height: 300px;
     margin: 0 auto 0 auto;
+    display: inline-block;
 }
 
 .picture3 {
     width: 450px;
     height: 300px;
     margin: 0 auto 0 auto;
+    display: inline-block
 }
 
 .picture4 {
@@ -76,4 +80,35 @@ article h1 {
     width: 450px;
     height: 300px;
     margin: 0 auto 0 auto;
+}
+
+.my-box {
+    width: 400px;
+    height: 400px;
+    background-color: rgba(248, 248, 248, 0.378);
+    position: absolute;
+    top: 150px;
+    left: 140px;
+}
+
+.inside-box {
+ position: absolute;
+ color: #ffffff;
+
+}
+
+.third-paragraph {
+    background-color: #aad2f7;
+    width: 1000px;
+    padding: 20px;
+    margin: 20px auto 20px auto;
+    text-align: center;
+
+}
+
+.header {
+    display: block;
+    position: sticky;
+    top: 10px;
+
 }
