@@ -42,7 +42,7 @@ header nav ul li:hover {
     text-align: center;
 }
 
-.h2 {
+.h1 {
     width: 300px;
     padding: 20px;
     margin: 20px auto 20px auto;
@@ -71,6 +71,13 @@ article h1 {
     margin: 0 auto 0 auto;
     padding-left: 120px;
     
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+
+
 }
 
 .picture1 { 
